@@ -25,7 +25,8 @@ public class Condition {
 		}
 		
 		
-
+		
+		
 	}
 
 }
